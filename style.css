@@ -20,29 +20,6 @@ body
     font-weight: 700;
 }
 
-#menu
-{
-    color: white;
-    background-color: #303030;
-    padding: 10px;
-    margin-top: 20px;
-    opacity: 0.8;
-}
-
-.option
-{
-    float: left;
-    padding: 10px;
-    border-right: 2px dotted #444444;
-    height: 25px;
-    font-size: 18px;
-}
-
-.option:hover
-{
-    cursor: pointer;
-    background-color: black;
-}
 
 #topbar
 {
@@ -69,29 +46,6 @@ body
     padding: 20px;
     font-size: 17px;
     text-align: justify;
-}
-
-#sidebar
-{
-    float: left;
-    width: 158px;
-    padding: 20px;
-    background-color: #cccccc;border-right: 2px dotted black;
-    text-align: center;
-    min-height: 600px;
-}
-
-.optionL
-{
-    padding: 10px;
-    font-size: 18px;
-    border-bottom: 2px dotted #000000;
-}
-
-.optionL:hover
-{
-    background-color: orange;
-    cursor: pointer;
 }
 
 #content
